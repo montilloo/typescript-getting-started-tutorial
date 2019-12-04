@@ -1,0 +1,23 @@
+{
+  "name": "typescript-getting-started-tutorial",
+  "version": "1.0.0",
+  "description": "TypeScript入门教程",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/montilloo/typescript-getting-started-tutorial.git"
+  },
+  "keywords": [
+    "typescript",
+    "入门教程"
+  ],
+  "author": "nikun2008@126.com",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/montilloo/typescript-getting-started-tutorial/issues"
+  },
+  "homepage": "https://github.com/montilloo/typescript-getting-started-tutorial#readme"
+}
